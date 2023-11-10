@@ -1,0 +1,2 @@
+# elfbarhaz
+Okos haz tervezes
